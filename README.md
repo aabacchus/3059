@@ -10,3 +10,6 @@ The directory 3059-orig/ contains the original (abridged) texts.
 I am correcting books 13 to 24.
 
 Source of "correct" edition: https://archive.org/details/iliadofhomerdone00home/
+
+The \*\_lines\*.txt files are the two revisions, with each word on a single line,
+for comparison.
